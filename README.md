@@ -1,9 +1,8 @@
-Source - Namaste Technologies DA Challenge
+# Source - Namaste Technologies DA Challenge
 
 We've come up with 3 tasks to check your skills in Python, SQL and Tableau.
 These tasks are aligned with some of our Namaste workflows.
 
-You can add the solutions to the tasks in a public repository of your choice, or send us a .zip file.
 
 ## Scope and Preparation
 Namaste Technologies sells cannabis online via their e-commerce Shopify platform, CannMart.
